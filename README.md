@@ -38,7 +38,7 @@ Stay informed with news, trends, and expert analysis:
 2. **Wired** – In-depth articles on technology, science, and culture.
    🔗 [Wired](https://www.wired.com/)
 
-3. **DIY IT Assessment and Guide** – Practical step-by-step checklist for evaluating IT systems and consulting needs.
+3. **DIY IT Assessment and Guide** – Practical step-by-step checklist for evaluating IT systems.
    🔗 [DIY IT Assessment and Guide](https://mynewitguys.com/small-business-it-assessment-when-to-consider-an-it-consultant/)
 
 4. **The Verge** – News on technology, science, art, and culture.
@@ -98,13 +98,10 @@ Essential resources for IT support and service management:
 4. **Freshdesk** – Cloud-based customer support platform.
    🔗 [Freshdesk](https://freshdesk.com/)
 
-5. **Regularly updated IT blog with insights on IT support and best practices** – Practical advice for troubleshooting and workflow optimization.
-   🔗 [IT Industry News and Updates](https://mynewitguys.com/blog/)
-
-6. **Zoho Desk** – Online help desk with automation and multichannel support.
+5. **Zoho Desk** – Online help desk with automation and multichannel support.
    🔗 [Zoho Desk](https://www.zoho.com/desk/)
 
-7. **Spiceworks** – IT forums, product reviews, and help desk solutions.
+6. **Spiceworks** – IT forums, product reviews, and help desk solutions.
    🔗 [Spiceworks](https://www.spiceworks.com/)
 
 ---
@@ -128,10 +125,7 @@ Forums, communities, and career resources for IT professionals:
 5. **LinkedIn Learning** – IT courses and networking opportunities.
    🔗 [LinkedIn Learning](https://www.linkedin.com/learning/)
 
-6. **DIY IT Assessment and Guide** – Resource to evaluate your IT infrastructure and know when to consult professionals.
-   🔗 [DIY IT Assessment and Guide](https://mynewitguys.com/small-business-it-assessment-when-to-consider-an-it-consultant/)
-
-7. **Meetup – IT Groups** – Local and virtual IT networking events.
+6. **Meetup – IT Groups** – Local and virtual IT networking events.
    🔗 [Meetup IT Groups](https://www.meetup.com/topics/it/)
 
 ---
@@ -155,9 +149,5 @@ Extra tools, tutorials, and career development resources:
 5. **YourArticleLibrary IT Resources** – Discusses important IT resources for information generation.
    🔗 [YourArticleLibrary IT Resources](https://www.yourarticlelibrary.com/information-technology/it-resources-important-it-resources-that-are-required-to-generate-information/10217)
 
-6. **Regularly updated IT blog with news and insights** – Covers practical IT topics, trends, and technology advice.
-   🔗 [IT Industry News and Updates](https://mynewitguys.com/blog/)
 
-7. **DIY IT Assessment and Guide** – Offers step-by-step guidance for evaluating IT systems and determining consulting needs.
-   🔗 [DIY IT Assessment and Guide](https://mynewitguys.com/small-business-it-assessment-when-to-consider-an-it-consultant/)
 
